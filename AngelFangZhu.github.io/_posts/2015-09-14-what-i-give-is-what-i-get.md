@@ -1,0 +1,1 @@
+---layout: posttitle: 为什么要写独立博客？date: 2017-03-15categories: blogtags: [写作]description: 你的感悟。---这是一个测试，看看我能不能更新博客内容，并且添加新的博客。
